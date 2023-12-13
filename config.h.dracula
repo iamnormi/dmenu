@@ -20,9 +20,9 @@ static const char *colors[SchemeLast][2] = {
 
 /*custom draula theme*/
 	/*     fg         bg       */
-	[SchemeNorm] = { "#ffffff", "#000000" },
-	[SchemeSel] = { "#000000", "#ffffff" },
-	[SchemeOut] = { "#000000", "#8be9fd" },
+	[SchemeNorm] = { "#bbbbbb", "#282a36" },
+	[SchemeSel] = { "#f8f8f2", "#6272a4" },
+	[SchemeOut] = { "#282a36", "#8be9fd" },
 };
 static const unsigned int alphas[SchemeLast][2] = {
 	/*		fgalpha		bgalphga	*/
